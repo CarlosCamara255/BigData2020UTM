@@ -46,4 +46,47 @@ It is an open cluster computing system, unified analysis engine, ultrarapid for 
 $ git init 
 Turn an existing directory into a git repository
 ```
+```
+$ git add [file] 
+Snapshots the file in preparation for versioning
+
+```
+```
+$ git log 
+Lists version history for the current branch
+
+```
+```
+$ git reset [commit] 
+Undoes all commits after [commit], preserving changes locally
+
+```
+```
+$ git init 
+Turn an existing directory into a git repository
+```
+```
+$ git init 
+Turn an existing directory into a git repository
+```
+```
+$ git init 
+Turn an existing directory into a git repository
+```
+```
+$ git init 
+Turn an existing directory into a git repository
+```
+```
+$ git init 
+Turn an existing directory into a git repository
+```
+```
+$ git init 
+Turn an existing directory into a git repository
+```
+```
+$ git init 
+Turn an existing directory into a git repository
+```
 
