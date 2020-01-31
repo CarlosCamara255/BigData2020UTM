@@ -25,8 +25,8 @@ Data analysis is used in several industries to allow companies and organizations
 Improve the information you have available to help us make decisions. Convert the application data into visual representations helping customers describe concepts, discover opportunities, explore options and make more optimal decisions, all carried out by a very persuasive means.
 
 # Explain the different types of data analysis:
-|               | Are           | Cool  | Are           |
+|               | Tipos de datos           | Analisis  | Ejemplos          |
 | ------------- |:-------------:| -----:| -------------:|
-| Cualitativo   | right-aligned | $1600 |               |
-| col 2 is      | centered      |   $12 |               |
+| Cualitativo   | Se centra en las opiniones,actitudes y creencias. | Preguntas y respuestas a preguntas como: ¿Por qué?¿Cómo? |               |
+| Cuantitativo      | Se centra en los datos duros e información que pueda contabilizarse.     |   Se obtiene mediante preguntas similares a: ¿Cuántos?¿Quién?¿Con qué frecuencia?¿Dónde? |               |
 
