@@ -27,6 +27,6 @@ Improve the information you have available to help us make decisions. Convert th
 # Explain the different types of data analysis:
 |               | Tipos de datos           | Analisis  | Ejemplos          |
 | ------------- |:-------------:| -----:| -------------:|
-| Cualitativo   | Se centra en las opiniones,actitudes y creencias. | Preguntas y respuestas a preguntas como: ¿Por qué?¿Cómo? |               |
-| Cuantitativo      | Se centra en los datos duros e información que pueda contabilizarse.     |   Se obtiene mediante preguntas similares a: ¿Cuántos?¿Quién?¿Con qué frecuencia?¿Dónde? |               |
+| Cualitativo   | Se centra en las opiniones,actitudes y creencias. | Preguntas y respuestas a preguntas como: ¿Por qué?¿Cómo? |               
+| Cuantitativo  | Se centra en los datos duros e información que pueda contabilizarse.| Se obtiene mediante preguntas similares a: ¿Cuántos?¿Quién?¿Con qué frecuencia?¿Dónde? |               |
 
