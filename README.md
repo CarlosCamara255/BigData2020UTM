@@ -27,7 +27,6 @@ Improve the information you have available to help us make decisions. Convert th
 # Explain the different types of data analysis:
 |               | Are           | Cool  | Are           |
 | ------------- |:-------------:| -----:| -------------:|
-| col 3 is      | right-aligned | $1600 | -------------:|
-| col 2 is      | centered      |   $12 | -------------:|
-
+| Cualitativo   | right-aligned | $1600 |               |
+| col 2 is      | centered      |   $12 |               |
 
