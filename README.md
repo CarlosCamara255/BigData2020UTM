@@ -29,3 +29,15 @@ Improve the information you have available to help us make decisions. Convert th
 | ------------- |:-------------:| ---------:| -------------:|
 |Qualitative|It focuses on opinions, attitudes and beliefs.|Questions and answers to questions like: Why, how?|Panels where an argument is given and consumers are interviewed about what they like or not in the place.            
 |Quantitative|It focuses on hard data and information that can be accounted for.|It is obtained through questions similar to: How many? Who? How often? Where?|Surveys focused on measuring sales, trends, reports or perceptions.|
+
+# MapReduce:
+It is a programming framework model used to support parallel computing.
+
+# Hadoop:
+It is an open source software structure for storing data and running applications.
+
+# Apache spark
+It is an open cluster computing system, unified analysis engine, ultrarapid for Big Data.
+
+# Architecture Lambda and Kappa:
+
