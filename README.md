@@ -77,7 +77,6 @@ Delete the file from the active directory and put the deleted file in the waitin
 $ git commit -m "[descriptive message]"
 Records file snapshots permanently in version history
 ```
-```
-THE END
+# THE END
 
 
