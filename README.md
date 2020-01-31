@@ -62,31 +62,22 @@ Undoes all commits after [commit], preserving changes locally
 
 ```
 ```
-$ git init 
-Turn an existing directory into a git repository
+$ git status
+Lists all new or modified files that must be con ﬁ rmed
 ```
 ```
-$ git init 
-Turn an existing directory into a git repository
+$ git diff --staged  
+Show file differences between the waiting area and the latest version of the file
 ```
 ```
-$ git init 
-Turn an existing directory into a git repository
+$ git rm [file]  
+Delete the file from the active directory and put the deleted file in the waiting area
 ```
 ```
-$ git init 
-Turn an existing directory into a git repository
+$ git commit -m "[descriptive message]"
+Records file snapshots permanently in version history
 ```
 ```
-$ git init 
-Turn an existing directory into a git repository
-```
-```
-$ git init 
-Turn an existing directory into a git repository
-```
-```
-$ git init 
-Turn an existing directory into a git repository
-```
+THE END
+
 
