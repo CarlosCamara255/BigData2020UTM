@@ -41,3 +41,10 @@ It is an open cluster computing system, unified analysis engine, ultrarapid for 
 
 # Architecture Lambda and Kappa:
 
+# GitHub Commands:
+```
+$ git init 
+Turn an existing directory into a git repository
+
+```
+
