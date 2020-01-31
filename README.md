@@ -45,6 +45,5 @@ It is an open cluster computing system, unified analysis engine, ultrarapid for 
 ```
 $ git init 
 Turn an existing directory into a git repository
-
 ```
 
