@@ -25,9 +25,9 @@ Data analysis is used in several industries to allow companies and organizations
 Improve the information you have available to help us make decisions. Convert the application data into visual representations helping customers describe concepts, discover opportunities, explore options and make more optimal decisions, all carried out by a very persuasive means.
 
 # Explain the different types of data analysis:
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+|               | Are           | Cool  | Are           |
+| ------------- |:-------------:| -----:| -------------:|
+| col 3 is      | right-aligned | $1600 | -------------:|
+| col 2 is      | centered      |   $12 | -------------:|
 
 
